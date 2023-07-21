@@ -8,7 +8,6 @@
 # Table of Contents
 * [Introduce](#introduce)
 * [How to play](#how-to-play)
-* [Functions](#functions)
 * [License](#license)
 
 # Introduce
@@ -29,8 +28,6 @@ Value-add to the Aleo ecosystem:
 
  #### Step 3:
  Enter from [here](https://dapp.hialeo.io/) and start the game.
-
-# Functions
 
 # License
 [License: Apache 2.0](./LICENSE)
