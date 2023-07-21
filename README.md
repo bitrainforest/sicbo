@@ -25,7 +25,7 @@ The dealer throws 3 dice, and players bet on the result of the total of the numb
  Watch the game video online from [here](https://dapp.hialeo.io/), which explains the basic operation steps of the game.
 
  #### Step 2:  
- Before playing this game, you need to install leo wallet, if you have not installed it, please check how to install it from [here](https://leo.app/) and install it.
+ Before playing this game, you need to make sure leo wallet is installed, if you have not installed it, please check how to install it from [here](https://leo.app/) and install it.
 
  #### Step 3:
  Enter from [here](https://dapp.hialeo.io/) and start the game.
