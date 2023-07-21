@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  // grid-template-columns: auto 1fr auto;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
+  .logo {
+    position: absolute;
+    left: 20px;
+    img {
+      height: 32px;
+      width: auto;
+    }
+  }
+  .aleo {
+    position: absolute;
+    right: 0;
+  }
+}

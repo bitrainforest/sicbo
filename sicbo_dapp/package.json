@@ -1,0 +1,29 @@
+{
+  "name": "aleo-p",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@demox-labs/aleo-wallet-adapter-base": "^0.0.15",
+    "@demox-labs/aleo-wallet-adapter-leo": "^0.0.15",
+    "@demox-labs/aleo-wallet-adapter-react": "^0.0.15",
+    "@demox-labs/aleo-wallet-adapter-reactui": "^0.0.27",
+    "@types/node": "20.4.2",
+    "@types/react": "18.2.15",
+    "@types/react-dom": "18.2.7",
+    "antd": "^5.7.0",
+    "copy-text-to-clipboard": "^3.2.0",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.9",
+    "next": "13.4.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.63.6",
+    "typescript": "5.1.6"
+  }
+}
