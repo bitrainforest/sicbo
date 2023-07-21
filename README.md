@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="Sicbo Game"  src="https://github.com/bitrainforest/sicbo/blob/main/sicbo_resources/sicbo_banner.png?raw=true">
+</p> 
+
 # <p align="center">Sicbo Game</p>
 # <p align="center">A fun game with privacy based on zero-knowledge proof</p>
 # <p align="center">The Game DApp Online: https://dapp.hialeo.io/ </p>
