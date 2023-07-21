@@ -19,7 +19,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>ALEO</title>
+        <title>Sic bo</title>
       </Head>
       <div className={Styles.main}>
         <MyHeader />
