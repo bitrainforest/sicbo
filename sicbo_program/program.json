@@ -1,0 +1,10 @@
+{
+    "program": "sicbo.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp1xukF49mf4XbjPWU71oPndWHcfGHFjJkQx1bFBMb4VVb",
+        "address": "aleo1qhwlfmaw7tyrz0zh8ynugn55qquwtea432f76f9g9m94hx4lcc9qdxuv9d"
+    },
+    "license": "MIT"
+}

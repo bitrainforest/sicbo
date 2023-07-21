@@ -1,0 +1,21 @@
+[package]
+name = "sicbo_contract_api"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mimalloc = { version = "*", default-features = false }
+anyhow = "1"
+aleo = "0.5"
+aleo-rust = { version = "0.5", default-features = false }
+clap = { version = "4", features = ["derive"] }
+tokio = { version = "1", features = ["full"] }
+hyper = { version = "0.14", features = ["server", "http1", "tcp"] }
+serde = { version = "1" }
+serde_json = "1"
+
+[profile.release]
+lto = true
+codegen-units = 1
