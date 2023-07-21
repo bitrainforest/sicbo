@@ -10,6 +10,7 @@
 # Introduce
 This is a fun and entertaining DApp. 
 The dealer throws 3 dice, and players bet on the result of the total of the numbers on the 3 dice.  Result of the throw ranges from 3-18.  Players can place their bets on SMALL for result range 3-10 or BIG for result range 11-18.  Players can place any number of chips for each bet.   Payout for winning bets is 2 to 1.
+
 Value-add to the Aleo ecosystem:
 1. Enriching the Aleo ecosystem with another fun and engaging game!
 2. Taking full advantage of Aleo's privacy capabilities, the game data is only available to the participants and not visible on chain.  It protects the privacy of the participants, and also also ensures fairness in the game!   Through this game, we clearly demonstrated the capabilities and benefits of Aleo to future and potential participants of the ecosystem.
