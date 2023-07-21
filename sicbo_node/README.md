@@ -1,4 +1,4 @@
-# 简介
+# Introduction
 
 sicbo game logic，Mainly include, player module, game module, contract module 。
 
