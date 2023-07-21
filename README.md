@@ -22,7 +22,7 @@ The dealer throws 3 dice, and players bet on the result of the total of the numb
 4. The product is simple and user-friendly.  It promotes the growth of the Aleo ecosystem through fast user adoption.
 # How to play
  #### Step 1: 
- Watch the game video online from [here](https://dapp.hialeo.io/), which explains the basic operation steps of the game.
+ Watch the game video online from [here](https://www.youtube.com/watch?v=yLh6siXKVGc), which explains the basic operation steps of the game.
 
  #### Step 2:  
  Before playing this game, you need to make sure leo wallet is installed, if you have not installed it, please check how to install it from [here](https://leo.app/) and install it.
